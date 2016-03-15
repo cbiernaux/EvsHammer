@@ -1,6 +1,7 @@
 {
   "name": "@cbiernaux/evshammer",
   "version": "0.0.1",
+  "main": "include_dirs.js",
   "author": "cbiernaux",
   "license": "ISC",
   "gypfile": true,
