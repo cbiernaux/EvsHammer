@@ -1,7 +1,7 @@
 {
-  "name": "EvsHammer",
-  "version": "1.0.0",
-  "author": "CBI",
+  "name": "@cbiernaux/evshammer",
+  "version": "0.0.1",
+  "author": "cbiernaux",
   "license": "ISC",
   "gypfile": true,
   "dependencies": {
