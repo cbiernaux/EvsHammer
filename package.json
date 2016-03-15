@@ -1,0 +1,10 @@
+{
+  "name": "EvsHammer",
+  "version": "1.0.0",
+  "author": "CBI",
+  "license": "ISC",
+  "gypfile": true,
+  "dependencies": {
+    "nan": "^2.2.0"
+  }
+}
