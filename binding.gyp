@@ -1,7 +1,7 @@
 {
   "targets": [
     {
-      "target_name": "EvsHammer",
+      "target_name": "evshammer",
       "sources": [ "EvsHammer.cpp" ],
       "include_dirs": [
         "<!(node -e \"require('nan')\")",
